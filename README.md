@@ -24,4 +24,3 @@ Como executar
 2. Configure a Connection String no `appsettings.json`
 3. Execute:
 
-```bash
